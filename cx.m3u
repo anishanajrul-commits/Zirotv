@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="25" tvg-name="Channel 25" group-title="Live TV",Channel 25
+http://103.175.73.12:8080/live/25/25_0.m3u8
+
 #EXTINF:-1 tvg-id="andpicture-hd" tvg-name="And Picture HD" tvg-logo="https://i.postimg.cc/fbbmZ4J7/images.png" group-title="Movies",And Picture HD
 https://sm-monirul.top/@monirul_Islam_SM/play/andpicture_hd.m3u8
 
