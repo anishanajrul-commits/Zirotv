@@ -74,6 +74,10 @@ https://cdn-2.pishow.tv/live/1051/master.m3u8
 #EXTINF:-1 group-title="Hindi News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBC-24.png",IBC 24
 https://cdn-3.pishow.tv/live/220/master.m3u8
 
+#EXTINF:-1 tvg-id="1473" tvg-name="Channel 1473" tvg-logo="https://i.postimg.cc/fLdFsWTy/images.jpg" group-title="Live TV", Khusboo Bangla 
+https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
+
+
 #EXTINF:-1 group-title="English News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png",Al Jazeera
 https://cdn-7.pishow.tv/live/429/master.m3u8
 #EXTINF:-1 group-title="English News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png",DW News English
@@ -397,5 +401,3 @@ https://cdn-4.pishow.tv/live/38/master.m3u8
 #EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Jharkhand.png",DD Jharkhand
 https://cdn-1.pishow.tv/live/1617/master.m3u8
 
-#EXTINF:-1 tvg-id="1473" tvg-name="Channel 1473" tvg-logo="https://i.postimg.cc/fLdFsWTy/images.jpg" group-title="Live TV", Khusboo Bangla 
-https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
