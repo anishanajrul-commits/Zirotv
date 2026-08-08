@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="25" tvg-name="Channel 25" group-title="Live TV",Channel 25
-http://103.175.73.12:8080/live/25/25_0.m3u8
-
 #EXTINF:-1 tvg-id="andpicture-hd" tvg-name="And Picture HD" tvg-logo="https://i.postimg.cc/fbbmZ4J7/images.png" group-title="Movies",And Picture HD
 https://sm-monirul.top/@monirul_Islam_SM/play/andpicture_hd.m3u8
 
@@ -10,33 +7,22 @@ https://sm-monirul.top/@monirul_Islam_SM/play/andpicture_hd.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
 #EXTINF:-1 group-title="Pogo" tvg-id="" tvg-logo="https://i.postimg.cc/gkJgGFx0/1d47df5bb049d4e70d8d7301ef9666cb.png",Pogo
 https://yowaimo.in/Sflex-ArtlPVT0719/POGO.m3u8
-#EXTM3U
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCzBDWLP/images-(8).jpg" group-title="Indian Channels",Zee TV HD
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_TV_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQYFF5z4/images-(2).png" group-title="Indian Channels",Colors HD
 https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2gqn0rs/images-(9).jpg" group-title="Indian Channels",Sony PAL
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2WVyWJW/images-(10).jpg" group-title="Indian Channels",Sony Wah
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_WAH.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqjCFF5K/images-(11).jpg" group-title="Indian Channels",Sony TV HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgkGmbS2/images-(12).jpg" group-title="Indian Channels",Sony SAB HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SAB_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NjHVfSx/images-(13).jpg" group-title="Indian Channels",Sony Yay
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_YAY.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hG8vrvKW/images-(3).png" group-title="Indian Channels",Colors Cineplex HD
 https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_CINEPLEX_HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvf1pwzV/images-(1).jpg" group-title="Movies",Star Plus HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_PLUS_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfvNcbKd/images.png" group-title="Movies",Star Gold HD
@@ -57,63 +43,8 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/AND_FLIX_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCL5G4dc/images-(7).jpg" group-title="Sports",Unite 8 Sports Hindi (ZEE CAFE)
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4xY4PfTn/Ddnews.jpg",DD News
-https://cdn-2.pishow.tv/live/12/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4xY4PfTn/Ddnews.jpg",DD News HD
-https://cdn-7.pishow.tv/live/19/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4Nrp2KRJ/images-(4).png",TV9 Bharat
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports_HD.png",DD Sports HD
-https://cdn-7.pishow.tv/live/1161/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png",DD India
-https://cdn-1.pishow.tv/live/23/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",DD Kisan
-https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",DD Bharati
-https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png",Gyan Darshan
-https://cdn-6.pishow.tv/live/14/master.m3u8
 
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chhattisgarh.png",DD Chhattisgarh
-https://cdn-1.pishow.tv/live/15/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kashir.png",DD Kashir
-https://cdn-6.pishow.tv/live/16/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttarakhand.png",DD Uttarakhand
-https://cdn-1.pishow.tv/live/17/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Yadagiri.png",DD Yadagiri
-https://cdn-1.pishow.tv/live/21/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
-https://cdn-1.pishow.tv/live/22/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Punjabi.png",DD Punjabi
-https://cdn-4.pishow.tv/live/24/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Assam.png",DD Assam
-https://cdn-4.pishow.tv/live/25/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Tamil.png",DD Tamil
-https://cdn-2.pishow.tv/live/26/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
-https://cdn-3.pishow.tv/live/27/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chandana.png",DD Chandana
-https://cdn-3.pishow.tv/live/28/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahyadri
-https://cdn-3.pishow.tv/live/30/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
-https://cdn-1.pishow.tv/live/31/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png",DD Arunphrabha
-https://cdn-4.pishow.tv/live/32/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Meghalaya.png",DD Meghalaya
-https://cdn-4.pishow.tv/live/33/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD Rajasthan
-https://cdn-1.pishow.tv/live/34/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png",DD Bihar
-https://cdn-4.pishow.tv/live/35/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD Uttar Pradesh
-https://cdn-1.pishow.tv/live/36/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
-https://cdn-4.pishow.tv/live/37/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Girnar.png",DD Girnar
-https://cdn-4.pishow.tv/live/38/master.m3u8
-#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Jharkhand.png",DD Jharkhand
-https://cdn-1.pishow.tv/live/1617/master.m3u8
+
 
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV 2
 https://cdn-2.pishow.tv/live/39/master.m3u8
@@ -397,7 +328,6 @@ https://cdn-2.pishow.tv/live/1522/master.m3u8
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1 group-title="Other Entertainment" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png",News J
 https://cdn-3.pishow.tv/live/1279/master.m3u8
-
 #EXTINF:-1 group-title="Haryanvi" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fast1.png",Fast 1 Haryanvi
 https://cdn-6.pishow.tv/live/10008/master.m3u8
 
@@ -407,6 +337,65 @@ https://cdn-6.pishow.tv/live/395/master.m3u8
 https://cdn-1.pishow.tv/live/957/master.m3u8
 #EXTINF:-1 group-title="Health" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_English.png",CVR English
 https://cdn-2.pishow.tv/live/425/master.m3u8
-
 #EXTINF:-1 group-title="Nepali" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nepal_one.png",Nepal 1
 https://cdn-6.pishow.tv/live/1490/master.m3u8
+
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4xY4PfTn/Ddnews.jpg",DD News
+https://cdn-2.pishow.tv/live/12/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4xY4PfTn/Ddnews.jpg",DD News HD
+https://cdn-7.pishow.tv/live/19/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://i.postimg.cc/4Nrp2KRJ/images-(4).png",TV9 Bharat
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports_HD.png",DD Sports HD
+https://cdn-7.pishow.tv/live/1161/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png",DD India
+https://cdn-1.pishow.tv/live/23/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 group-title="DD National" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyandarshan.png",Gyan Darshan
+https://cdn-6.pishow.tv/live/14/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chhattisgarh.png",DD Chhattisgarh
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kashir.png",DD Kashir
+https://cdn-6.pishow.tv/live/16/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttarakhand.png",DD Uttarakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Yadagiri.png",DD Yadagiri
+https://cdn-1.pishow.tv/live/21/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
+https://cdn-1.pishow.tv/live/22/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Punjabi.png",DD Punjabi
+https://cdn-4.pishow.tv/live/24/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Assam.png",DD Assam
+https://cdn-4.pishow.tv/live/25/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Tamil.png",DD Tamil
+https://cdn-2.pishow.tv/live/26/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
+https://cdn-3.pishow.tv/live/27/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chandana.png",DD Chandana
+https://cdn-3.pishow.tv/live/28/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahyadri
+https://cdn-3.pishow.tv/live/30/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png",DD Arunphrabha
+https://cdn-4.pishow.tv/live/32/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Meghalaya.png",DD Meghalaya
+https://cdn-4.pishow.tv/live/33/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD Rajasthan
+https://cdn-1.pishow.tv/live/34/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png",DD Bihar
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD Uttar Pradesh
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
+https://cdn-4.pishow.tv/live/37/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Girnar.png",DD Girnar
+https://cdn-4.pishow.tv/live/38/master.m3u8
+#EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Jharkhand.png",DD Jharkhand
+https://cdn-1.pishow.tv/live/1617/master.m3u8
+
+#EXTINF:-1 tvg-id="1473" tvg-name="Channel 1473" tvg-logo="https://i.postimg.cc/fLdFsWTy/images.jpg" group-title="Live TV", Khusboo Bangla 
+https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
