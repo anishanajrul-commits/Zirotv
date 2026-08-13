@@ -1,51 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="andpicture-hd" tvg-name="And Picture HD" tvg-logo="https://i.postimg.cc/fbbmZ4J7/images.png" group-title="Movies",And Picture HD
-https://shoebinfo.qzz.io/zee5/zee5.php/0-9-9z5898964.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies" tvg-id="" tvg-logo="https://i.postimg.cc/7Y9rWypT/Disney-Channel.jpg",Disney Channel 
-https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
-#EXTINF:-1 group-title="Pogo" tvg-id="" tvg-logo="https://i.postimg.cc/gkJgGFx0/1d47df5bb049d4e70d8d7301ef9666cb.png",Pogo
-https://yowaimo.in/Sflex-ArtlPVT0719/POGO.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCzBDWLP/images-(8).jpg" group-title="Indian Channels",Zee TV HD
-https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_TV_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQYFF5z4/images-(2).png" group-title="Indian Channels",Colors HD
-https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2gqn0rs/images-(9).jpg" group-title="Indian Channels",Sony PAL
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_PAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2WVyWJW/images-(10).jpg" group-title="Indian Channels",Sony Wah
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_WAH.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqjCFF5K/images-(11).jpg" group-title="Indian Channels",Sony TV HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgkGmbS2/images-(12).jpg" group-title="Indian Channels",Sony SAB HD
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_SAB_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NjHVfSx/images-(13).jpg" group-title="Indian Channels",Sony Yay
-https://yowaimo.in/Sflex-ArtlPVT0719/SONY_YAY.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hG8vrvKW/images-(3).png" group-title="Indian Channels",Colors Cineplex HD
-https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_CINEPLEX_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvf1pwzV/images-(1).jpg" group-title="Movies",Star Plus HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_PLUS_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfvNcbKd/images.png" group-title="Movies",Star Gold HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QrwNHc6/images-(2).jpg" group-title="Movies",Star Gold 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_2_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2SSwy2W/images-(1).png" group-title="Movies",Star Gold Select HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_GOLD_SELECT_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wBDSwD/images-(3).jpg" group-title="Movies",Zee Cinema HD
-https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CINEMA_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZYnh0W7/images-(4).jpg" group-title="Movies",Sony Max HD
-https://sm-monirul.top/@monirul_Islam_SM/play/sony_max_hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncwGLkrn/images-(5).jpg" group-title="Sports",Star Sports 1 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5WgmxD5/images-(6).jpg" group-title="Sports",Star Sports 2 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXbQgTm0/724f5fa45f7cf31425f34a08d2945569.jpg" group-title="Sports",Unite 8 Sports (AND FLIX)
-https://yowaimo.in/Sflex-ArtlPVT0719/AND_FLIX_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCL5G4dc/images-(7).jpg" group-title="Sports",Unite 8 Sports Hindi (ZEE CAFE)
-https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
-
-
-
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV 2
 https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Sansad TV 2 HD
