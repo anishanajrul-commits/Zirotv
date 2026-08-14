@@ -1,10 +1,28 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="" group-title="Movies",Colors Cineplex Bollywood
+http://live.balajibroadband.com:3500/live/1763.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="" group-title="Entertainment",Colors Bangla
+http://live.balajibroadband.com:3500/live/756.m3u8
+
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
+http://live.balajibroadband.com:3500/live/144.m3u8
+
+#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="" group-title="Entertainment",Sony Pal
+http://live.balajibroadband.com:3500/live/474.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="" group-title="Movies",Colors Cineplex Superhits
+http://live.balajibroadband.com:3500/live/1450.m3u8
+
+
+
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV 2
 https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Sansad TV 2 HD
 https://cdn-7.pishow.tv/live/40/master.m3u8
-
 #EXTINF:-1 group-title="Hindi News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png",India TV
 https://cdn-2.pishow.tv/live/1043/master.m3u8
 #EXTINF:-1 group-title="Hindi News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
