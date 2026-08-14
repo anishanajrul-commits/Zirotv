@@ -1,6 +1,20 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="" group-title="Kids",Pogo
+http://live.balajibroadband.com:3500/live/559.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids",Discovery Kids
+http://live.balajibroadband.com:3500/live/554.m3u8
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick Hindi" tvg-logo="" group-title="Kids",Nick Hindi
+http://live.balajibroadband.com:3500/live/545.m3u8
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="" group-title="Kids",Nick Jr
+http://live.balajibroadband.com:3500/live/548.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB HD" tvg-logo="" group-title="Entertainment",Sony SAB HD
+http://live.balajibroadband.com:3500/live/471.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="" group-title="Movies",Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
@@ -17,6 +31,14 @@ http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="" group-title="Movies",Colors Cineplex Superhits
 http://live.balajibroadband.com:3500/live/1450.m3u8
 
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="" group-title="Movies",Colors Cineplex
+http://live.balajibroadband.com:3500/live/482.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony MAX 2" tvg-logo="" group-title="Movies",Sony MAX 2
+http://live.balajibroadband.com:3500/live/483.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi" tvg-logo="" group-title="Infotainment",Discovery Hindi
+http://live.balajibroadband.com:3500/live/575.m3u8
 
 
 #EXTINF:-1 group-title="Sansad TV" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV 2
@@ -373,3 +395,5 @@ https://cdn-4.pishow.tv/live/38/master.m3u8
 #EXTINF:-1 group-title="DD Regional" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Jharkhand.png",DD Jharkhand
 https://cdn-1.pishow.tv/live/1617/master.m3u8
 
+#EXTINF:-1 tvg-id="NewsLive" tvg-name="News Live" tvg-logo="" group-title="News",News Live
+http://live.balajibroadband.com:3500/live/613.m3u8
