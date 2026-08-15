@@ -37,6 +37,9 @@ http://live.balajibroadband.com:3500/live/555.m3u8
 #EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 http://live.balajibroadband.com:3500/live/559.m3u8
 
+#EXTINF:-1 tvg-id="green-gold-tv" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids",Green Gold TV
+https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids
 http://live.balajibroadband.com:3500/live/554.m3u8
 
@@ -315,6 +318,8 @@ https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DY_365.png",DY 365
 https://cdn-6.pishow.tv/live/10001/master.m3u8
+#EXTINF:-1 tvg-id="prag-news" tvg-name="Prag News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prag_News.png" group-title="News",Prag News
+http://live.balajibroadband.com:3500/live/624.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jonack.png",Jonack
 https://cdn-6.pishow.tv/live/10006/master.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NKTV_Bangla.png",NKTV Bangla
