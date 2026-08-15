@@ -309,6 +309,10 @@ https://cdn-3.pishow.tv/live/461/master.m3u8
 #EXTINF:-1 group-title="Telugu Entertainment" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradana TV
 https://cdn-1.pishow.tv/live/961/master.m3u8
 
+#EXTINF:-1 tvg-id="spondon" tvg-name="Spondon" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Spondon.png" group-title="Entertainment",Spondon
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="Kids",Cartoon Network Hindi
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DY_365.png",DY 365
 https://cdn-6.pishow.tv/live/10001/master.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jonack.png",Jonack
