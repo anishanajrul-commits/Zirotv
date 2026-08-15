@@ -13,6 +13,15 @@ http://live.balajibroadband.com:3500/live/545.m3u8
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Jr
 http://live.balajibroadband.com:3500/live/548.m3u8
 
+#EXTINF:-1 tvg-id="chintu-tv" tvg-name="Chintu TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids",Chintu TV
+http://live.balajibroadband.com:3500/live/555.m3u8
+
+#EXTINF:-1 tvg-id="chutti-tv" tvg-name="Chutti TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids",Chutti TV
+http://live.balajibroadband.com:3500/live/557.m3u8
+
+#EXTINF:-1 tvg-id="khusi-tv" tvg-name="Khusi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="Kids",Khusi TV
+http://live.balajibroadband.com:3500/live/555.m3u8
+
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
 http://live.balajibroadband.com:3500/live/471.m3u8
 
