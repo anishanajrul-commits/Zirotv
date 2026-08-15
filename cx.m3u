@@ -1,37 +1,37 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="" group-title="Kids",Pogo
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 http://live.balajibroadband.com:3500/live/559.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids
 http://live.balajibroadband.com:3500/live/554.m3u8
 
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick Hindi" tvg-logo="" group-title="Kids",Nick Hindi
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
 http://live.balajibroadband.com:3500/live/545.m3u8
 
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="" group-title="Kids",Nick Jr
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Jr
 http://live.balajibroadband.com:3500/live/548.m3u8
 
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB HD" tvg-logo="" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
 http://live.balajibroadband.com:3500/live/471.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="" group-title="Movies",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
 
-#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="" group-title="Entertainment",Colors Bangla
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Entertainment",Colors Bangla
 http://live.balajibroadband.com:3500/live/756.m3u8
 
-#EXTINF:-1 tvg-id="Colors" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
+#EXTINF:-1 tvg-id="Colors" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
 http://live.balajibroadband.com:3500/live/144.m3u8
 
-#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="" group-title="Movies",Colors Cineplex Superhits
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies",Colors Cineplex Superhits
 http://live.balajibroadband.com:3500/live/1450.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="" group-title="Movies",Colors Cineplex
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Movies",Colors Cineplex
 http://live.balajibroadband.com:3500/live/482.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony MAX 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Movies",Sony MAX 2
