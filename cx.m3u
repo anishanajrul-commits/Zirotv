@@ -111,7 +111,8 @@ https://cdn-3.pishow.tv/live/220/master.m3u8
 
 #EXTINF:-1 tvg-id="1473" tvg-name="Channel 1473" tvg-logo="https://i.postimg.cc/fLdFsWTy/images.jpg" group-title="Live TV", Khusboo Bangla 
 https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
-
+#EXTINF:-1 tvg-id="etv" tvg-name="ETV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="etv-cinema" tvg-name="ETV Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" group-title="Movies",ETV Cinema
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 group-title="English News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png",Al Jazeera
