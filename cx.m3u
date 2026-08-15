@@ -173,6 +173,10 @@ https://cdn-3.pishow.tv/live/1629/master.m3u8
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 group-title="Malayalam News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_TV.png",Janam TV
 https://cdn-3.pishow.tv/live/1466/master.m3u8
+#EXTINF:-1 tvg-id="sun-surya-music" tvg-name="Sun Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Music",Sun Surya Music
+http://live.balajibroadband.com:3500/live/747.m3u8
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png" group-title="News",Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 group-title="Punjabi News" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_News.png",PTC News
 https://cdn-4.pishow.tv/live/1502/master.m3u8
