@@ -34,10 +34,10 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="" group-title="Movies",Colors Cineplex
 http://live.balajibroadband.com:3500/live/482.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony MAX 2" tvg-logo="" group-title="Movies",Sony MAX 2
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony MAX 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Movies",Sony MAX 2
 http://live.balajibroadband.com:3500/live/483.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi" tvg-logo="" group-title="Infotainment",Discovery Hindi
+#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryMal.png" group-title="Infotainment",Discovery Hindi
 http://live.balajibroadband.com:3500/live/575.m3u8
 
 
