@@ -3,27 +3,18 @@
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" group-title="Movies",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
 #EXTINF:-1 tvg-id="zee-bangla-sonar" tvg-name="Zee Bangla Sonar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Bengali",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-
 #EXTINF:-1 tvg-id="zoom-tv" tvg-name="Zoom TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Entertainment",Zoom TV
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-id="zee-tamil" tvg-name="Zee Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTamil.png" group-title="Tamil",Zee Tamil
-http://live.balajibroadband.com:3500/live/628.m3u8
-
-#EXTINF:-1 tvg-id="sun-udaya-movies" tvg-name="Sun Udaya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="Movies",Sun Udaya Movies
-http://live.balajibroadband.com:3500/live/678.m3u8
-
-#EXTINF:-1 tvg-id="sun-news" tvg-name="Sun News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News",Sun News
-http://live.balajibroadband.com:3500/live/676.m3u8
-
-#EXTINF:-1 tvg-id="sun-life" tvg-name="Sun Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="Entertainment",Sun Life
-http://live.balajibroadband.com:3500/live/682.m3u8
-
-#EXTINF:-1 tvg-id="sun-music" tvg-name="Sun Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Music",Sun Music
-http://live.balajibroadband.com:3500/live/684.m3u8
+#EXTINF:-1 tvg-id="star-sports-select-1" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1
+http://202.70.146.135:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="star-sports-select-2" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2
+http://202.70.146.135:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
+http://202.70.146.135:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony PIX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="Movies",Sony PIX
+http://202.70.146.135:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="chintu-tv" tvg-name="Chintu TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids",Chintu TV
 http://live.balajibroadband.com:3500/live/555.m3u8
