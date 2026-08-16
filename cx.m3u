@@ -96,12 +96,10 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-id="Colors" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
 http://202.70.146.135:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
-http://live.balajibroadband.com:3500/live/474.m3u8
-
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits" tvg-name="Colors Cineplex Superhits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="Movies",Colors Cineplex Superhits
-http://live.balajibroadband.com:3500/live/1450.m3u8
+#EXTINF:-1 tvg-id="star-sports-1" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="Sports",Star Sports 1
+http://202.70.146.135:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="star-plus" tvg-name="Star Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment",Star Plus
+http://202.70.146.135:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex" tvg-name="Colors Cineplex" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="Movies",Colors Cineplex
 http://live.balajibroadband.com:3500/live/482.m3u8
