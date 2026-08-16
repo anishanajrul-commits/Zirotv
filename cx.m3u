@@ -89,7 +89,7 @@ http://live.balajibroadband.com:3500/live/1763.m3u8
 http://live.balajibroadband.com:3500/live/756.m3u8
 
 #EXTINF:-1 tvg-id="Colors" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="Entertainment",Colors HD
-http://live.balajibroadband.com:3500/live/144.m3u8
+http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPal" tvg-name="Sony Pal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
 http://live.balajibroadband.com:3500/live/474.m3u8
