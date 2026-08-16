@@ -16,32 +16,71 @@ http://202.70.146.135:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony PIX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="Movies",Sony PIX
 http://202.70.146.135:8000/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="chintu-tv" tvg-name="Chintu TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids",Chintu TV
-http://live.balajibroadband.com:3500/live/555.m3u8
+#EXTINF:-1 tvg-id="SONY-SAB-HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony LIV",Sony SAB HD
+https://yashlivetv.fun/sony.php/sabhd.m3u8
 
-#EXTINF:-1 tvg-id="chutti-tv" tvg-name="Chutti TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png" group-title="Kids",Chutti TV
-http://live.balajibroadband.com:3500/live/557.m3u8
+#EXTINF:-1 tvg-id="SET-HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony LIV",SET HD
+https://yashlivetv.fun/sony.php/sethd.m3u8
 
-#EXTINF:-1 tvg-id="khusi-tv" tvg-name="Khusi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" group-title="Kids",Khusi TV
-http://live.balajibroadband.com:3500/live/555.m3u8
+#EXTINF:-1 tvg-id="SONY-PAL" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Sony LIV",Sony Pal
+https://yashlivetv.fun/sony.php/sonypalsd.m3u8
 
-#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
-http://live.balajibroadband.com:3500/live/559.m3u8
+#EXTINF:-1 tvg-id="SONY-WAH" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony LIV",Sony WAH
+https://yashlivetv.fun/sony.php/sonywah.m3u8
 
-#EXTINF:-1 tvg-id="green-gold-tv" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" group-title="Kids",Green Gold TV
-https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY-MAX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony LIV",Sony MAX
+https://yashlivetv.fun/sony.php/sonymaxsd.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsHin.png" group-title="Kids",Discovery Kids
-http://live.balajibroadband.com:3500/live/554.m3u8
+#EXTINF:-1 tvg-id="SONY-MAX-HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony LIV",Sony Max HD
+https://yashlivetv.fun/sony.php/sonymaxhd.m3u8
 
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
-http://live.balajibroadband.com:3500/live/545.m3u8
+#EXTINF:-1 tvg-id="SONY-MAX2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony LIV",Sony MAX2
+https://yashlivetv.fun/sony.php/max2.m3u8
 
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Jr
-http://live.balajibroadband.com:3500/live/548.m3u8
+#EXTINF:-1 tvg-id="Ten1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 1
+https://yashlivetv.fun/sony.php/ten1sd.m3u8
 
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB HD
-http://live.balajibroadband.com:3500/live/471.m3u8
+#EXTINF:-1 tvg-id="Ten1HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 1 HD
+https://yashlivetv.fun/sony.php/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 2
+https://yashlivetv.fun/sony.php/ten2sd.m3u8
+
+#EXTINF:-1 tvg-id="Ten2HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 2 HD
+https://yashlivetv.fun/sony.php/ten2hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten3.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sony LIV",Sony Sports Ten 3
+https://yashlivetv.fun/sony.php/ten3sd.m3u8
+
+#EXTINF:-1 tvg-id="Ten3HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sony LIV",Sony Sports Ten 3 HD
+https://yashlivetv.fun/sony.php/ten3hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten4.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" group-title="Sony LIV",Sony Sports Ten 4 Tamil
+https://yashlivetv.fun/sony.php/ten4sd.m3u8
+
+#EXTINF:-1 tvg-id="Ten4HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Sony LIV",Sony Sports Ten 4 Telugu
+https://yashlivetv.fun/sony.php/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 5
+https://yashlivetv.fun/sony.php/sonysixsd.m3u8
+
+#EXTINF:-1 tvg-id="Ten5HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 5 HD
+https://yashlivetv.fun/sony.php/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-id="SONY-YAY!.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony LIV",Sony Yay
+https://yashlivetv.fun/sony.php/sonyyaysd.m3u8
+
+#EXTINF:-1 tvg-id="SONY-BBC-EarthHD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony LIV",Sony BBC Earth HD
+https://yashlivetv.fun/sony.php/sonybbcearthhd.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Pix-HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony LIV",Sony PIX HD
+https://yashlivetv.fun/sony.php/pixhd.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Marathi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Sony LIV",Sony Marathi
+https://yashlivetv.fun/sony.php/sonymarathi.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony LIV",Sony Aath
+https://yashlivetv.fun/sony.php/sonyaathsd.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://live.balajibroadband.com:3500/live/1763.m3u8
