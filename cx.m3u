@@ -67,6 +67,9 @@ https://yashlivetv.fun/sony.php/sonysixsd.m3u8
 #EXTINF:-1 tvg-id="Ten5HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony LIV",Sony Sports Ten 5 HD
 https://yashlivetv.fun/sony.php/sonysixhd.m3u8
 
+#EXTINF:-1 tvg-id="nick-hindi" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
+http://202.70.146.135:8000/play/a04c/index.m3u8
+
 #EXTINF:-1 tvg-id="SONY-YAY!.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony LIV",Sony Yay
 https://yashlivetv.fun/sony.php/sonyyaysd.m3u8
 
