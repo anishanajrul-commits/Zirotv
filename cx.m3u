@@ -7,12 +7,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="zoom-tv" tvg-name="Zoom TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Entertainment",Zoom TV
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="star-sports-select-1" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="Sports",Star Sports Select 1
-http://202.70.146.135:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="star-sports-select-2" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2
-http://202.70.146.135:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
-http://202.70.146.135:8000/play/a025/index.m3u8
+
 #EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony PIX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="Movies",Sony PIX
 http://202.70.146.135:8000/play/a06p/index.m3u8
 
@@ -119,7 +114,7 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u89xm
 
 #EXTINF:-1 tvg-name="9X Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xm.png" group-title="Music",9X Music
-https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u89x
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
 #EXTINF:-1 tvg-name="Jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png" group-title="Music",Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
