@@ -8,8 +8,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="zoom-tv" tvg-name="Zoom TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" group-title="Entertainment",Zoom TV
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony PIX" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="Movies",Sony PIX
-http://202.70.146.135:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="sony-pix" tvg-name="Green Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" group-title="Movies",Green Gold
+https://supflm.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY-SAB-HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony LIV",Sony SAB HD
 https://yashlivetv.fun/sony.php/sabhd.m3u8
