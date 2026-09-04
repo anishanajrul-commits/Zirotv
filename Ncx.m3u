@@ -142,7 +142,7 @@ https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoon-network-hindi" tvg-name="Cartoon Network Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHindi.png" group-title="Kids",Cartoon Network Hindi
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="North East" tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DY_365.png",DY 365
-https://cdn-6.pishow.tv/live/10001/master.m3u8
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="prag-news" tvg-name="Prag News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prag_News.png" group-title="News",Prag News
 http://live.balajibroadband.com:3500/live/624.m3u8
 
