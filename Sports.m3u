@@ -14,3 +14,32 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 
 #EXTINF:-1 tvg-name="PTV Sports" group-title="SPORTS",PTV Sports
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",Sony TEN 1 SD
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony TEN 1 HD
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",Sony TEN 2 SD
+https://cloudplay-sonyliv.pages.dev/ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony TEN 2 HD
+https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png",Sony TEN 3 SD
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony TEN 3 HD
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png",Sony TEN 4 SD
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png",Sony TEN 4 HD
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",Sony TEN 5 SD
+https://cloudplay-sonyliv.pages.dev/ten5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony TEN 5 HD
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
