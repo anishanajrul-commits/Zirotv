@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="559" tvg-name="Rang" group-title="Live TV",Rang TV
+#EXTINF:-1 tvg-id="559" tvg-name="Rang" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rang.png" group-title="Live TV",Rang TV
 http://live.balajibroadband.com:3500/live/623.m3u8
 
 #EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
