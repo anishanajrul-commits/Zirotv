@@ -34,7 +34,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlis
 http://202.70.146.135:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png" group-title="Entertainment",Hungama
-http://103.185.24.134:3001/HUNGAMA/playlist.m3u8
+http://live.balajibroadband.com:3500/live/556.m3u8
 #EXTINF:-1 tvg-name="Dkids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/discovery_kids.png" group-title="Kids",DKids
 http://live.balajibroadband.com:3500/live/554.m3u8
 #EXTINF:-1 tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick Hindi
